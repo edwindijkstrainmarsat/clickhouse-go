@@ -114,3 +114,5 @@ jobs:
           TF_VAR_token_key:  ${{ secrets.INTEGRATIONS_TEAM_TESTS_TOKEN_KEY }}
           TF_VAR_token_secret:  ${{ secrets.INTEGRATIONS_TEAM_TESTS_TOKEN_SECRET }}
           TF_VAR_service_password: ${{ secrets.INTEGRATIONS_TEAM_TESTS_CLOUD_PASSWORD }}
+
+#test trigger
